@@ -1,0 +1,9 @@
+#content{
+display: -webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+	    }
+
+.gid{
+	display: none;
+}
